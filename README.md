@@ -1,4 +1,4 @@
 # DAL project
 
-This is a description of the Readme file. Updated6
+This is a description of the Readme file.
 
